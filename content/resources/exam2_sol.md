@@ -6,6 +6,8 @@ description: This resource contains solutions for the 4 questions on reduction r
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/c0781d1739e9bb1d94df40bf97e20a91_exam2_sol.pdf
 file_size: 72602
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

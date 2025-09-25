@@ -6,6 +6,8 @@ description: Free energy model for BCC and CsCl structure with first-neighbor in
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/324d0b8f4968c41ff0ee09437a6f0a06_bcc_alloys.nb
 file_size: 505146
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

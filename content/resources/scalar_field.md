@@ -6,6 +6,8 @@ draft: ''
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/scalar_field.nb
 file_size: 9825
 file_type: text/html
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

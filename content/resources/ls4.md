@@ -5,6 +5,8 @@ description: This resource contains references and key concepts about interdiffu
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/3453d577b53c280708513740833c4932_ls4.pdf
 file_size: 30943
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains references and key concepts about fick's law
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/24ec6cbbc778577bf710a2603c52c0a0_ls6.pdf
 file_size: 43443
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: The Syllabus section presents various course policies and a course calendar.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

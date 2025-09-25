@@ -5,6 +5,8 @@ description: This resource contains references and key concepts about steady sta
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/80f6de86ffaab6d70c3b068ae11623de_ls8.pdf
 file_size: 33907
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
