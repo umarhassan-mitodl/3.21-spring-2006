@@ -5,6 +5,8 @@ description: This resource contains instructions for the exam and 6 questions on
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/150d823c88612a345b1d32a0d703b258_exam1.pdf
 file_size: 46508
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -33,6 +33,7 @@
     "website": "3-21-kinetic-processes-in-materials-spring-2006"
   },
   "course_title": "Kinetic Processes in Materials",
+  "hide_download": true,
   "course_description": "This course presents a unified treatment of phenomenological and atomistic kinetic processes in materials. It provides the foundation for the advanced understanding of processing, microstructural evolution, and behavior for a broad spectrum of materials. The course emphasizes analysis and development of rigorous comprehension of fundamentals. Topics include: irreversible thermodynamics; diffusion; nucleation; phase transformations; fluid and heat transport; morphological instabilities; gas-solid, liquid-solid, and solid-solid reactions.\n",
   "department_numbers": [
     "3"
@@ -43,6 +44,7 @@
     "content": "d95575c3-1dd5-2f54-7030-5d6f202e1eba",
     "website": "3-21-kinetic-processes-in-materials-spring-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes"
   ],

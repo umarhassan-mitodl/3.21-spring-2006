@@ -2,6 +2,8 @@
 content_type: page
 description: The Exam section presents the exams and solutions for the Spring 2006
   term, plus some prior years' exams for study purposes.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

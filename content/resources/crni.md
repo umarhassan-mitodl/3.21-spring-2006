@@ -6,6 +6,8 @@ description: This illustration accompanies the Mathematica notebook on Diffusion
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/cf286cf1b95fb84c932fc2765d644623_CrNi.tif
 file_size: 198754
 file_type: image/tiff
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

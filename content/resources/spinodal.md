@@ -6,6 +6,8 @@ description: Extension of the prior lecture's Mathematica notebook, to cover kin
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/950e2ec6d4abab320fa707e52b9329c0_spinodal.nb
 file_size: 989428
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

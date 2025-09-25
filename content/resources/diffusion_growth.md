@@ -8,6 +8,8 @@ description: This Mathematica notebook covers growth of a spherical precipitate 
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/e959de5c454869a358907158bd249ee4_diffusion_growth.nb
 file_size: 15470
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

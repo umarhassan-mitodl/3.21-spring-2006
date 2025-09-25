@@ -5,6 +5,8 @@ description: This resource contains references and key concepts about capillarit
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/44fe0b888d0d01732fa446f1df63383c_ls5.pdf
 file_size: 31724
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
